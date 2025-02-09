@@ -1,0 +1,20 @@
+{
+  "name": "holycrab",
+  "version": "1.0.4",
+  "main": "install.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "keywords": [
+    "holycrab",
+    "console",
+    "npm",
+    "fun"
+  ],
+  "author": "Tom Xu",
+  "license": "MIT",
+  "description": "Feb-8-2025",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}

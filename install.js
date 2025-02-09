@@ -18,7 +18,7 @@ const crabArt = `
 ⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿
 `;
 
-export function holyCrab() {
+export function holycrab() {
   console.log(chalk.yellow("🦀May Holy Crab eliminate all of your bugs. 🦀"));
   console.log(crabArt);
   console.log(chalk.yellow("🦀May Holy Crab eliminate all of your bugs. 🦀"));
